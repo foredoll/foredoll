@@ -24,6 +24,9 @@
 <br />
 <br />
 
+### Stats
+![GitHub followers](https://img.shields.io/github/followers/foredoll?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff)
+![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=foredoll.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 
 <details>
   <summary>Github Activity</summary>
