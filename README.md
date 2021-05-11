@@ -20,6 +20,7 @@
 <img align="left" alt="Glitch" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Glitch_%28company%29_logo.svg/1200px-Glitch_%28company%29_logo.svg.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" />
 
 <br />
 <br />
