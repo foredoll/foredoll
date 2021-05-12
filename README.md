@@ -2,6 +2,8 @@
 
 ## Hello, I'm foredoll! <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
+Using more HTML and Python these days 💖
+
 <img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/foredoII.svg?style=social" target="_blank" />
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=foredoll&color=blueviolet" />
 <br />
