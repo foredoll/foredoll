@@ -29,13 +29,12 @@ Using more HTML and Python these days 💖
 ### Stats
 <img align="left" alt="Profile Followers" src="https://img.shields.io/github/followers/foredoll?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff" />
 <img align="left" alt="Profile Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=foredoll.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github" />
-<img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=foredoll&color=blueviolet" />
 <br />
 <br>
 <br> 
 
 <details>
   <summary>Github Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foredoll&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foredoll&theme=tokyonight&hide=go,java">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foredoll&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foredoll&theme=tokyonight&layout=compact&hide=go,java">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foredoll&theme=tokyonight">
 </details>
