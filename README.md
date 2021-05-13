@@ -30,6 +30,9 @@ Using more HTML and Python these days 💖
 <img align="left" alt="Profile Followers" src="https://img.shields.io/github/followers/foredoll?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff" />
 <img align="left" alt="Profile Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=foredoll.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github" />
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=foredoll&color=blueviolet" />
+<br />
+<br>
+<br> 
 
 <details>
   <summary>Github Activity</summary>
