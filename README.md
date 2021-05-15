@@ -35,6 +35,6 @@ Using more HTML and Python these days 💖
 
 <details>
   <summary>Github Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foredoll&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foredoll&amp;theme=tokyonight&amp;hide=go,java">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foredoll&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foredoll&amp;theme=tokyonight&amp;hide=go,java,c,php,lua,rb,cpp">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foredoll&theme=tokyonight">
 </details> 
